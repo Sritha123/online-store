@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset=="UTF-8">
+ <title>shiva</title>
+ <link rel="stylesheet"href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+ <div class="navbar">
+  <div class="logo">
+    <img src="logo.png"width="125px">
+  </div>
+  <nav>
+     <ul>
+       <li><a href="">HOME</a></li>
+       <li><a href="">PRODUCTS</a></li>
+       <li><a href="">ABOUT</a></li>
+       <li><a href="">CONTACT</a></li>
+       <li><a href="">ACCOUNT</a></li>
+      </ul>
+    </nav>
+  </div>
+  <div class="row">
+    <div class="col-2">
+	<h1>CHOCOLICIUS_WITH_SRI</h1>
+<p>Choco lover
+</p>
+</div>
+	<div class="col-2">
+	  <img src="image1.jpg"width="400px">
+	</div>
+	</div>
+	</div>
+
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset=="UTF-8">
+   <title>shiva</title>
+   <link rel="stylesheet"href="style.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Smooch&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.1/css/fontawesome.min.css" integrity="sha384-zIaWifL2YFF1qaDiAo0JFgsmasocJ/rqu7LKYH8CoBEXqGbb9eO+Xi3s6fQhgFWM" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+<header>
+<h1>cart</h>
+<div class="cart-box">
+<div class="cart-icon"><img src="cart.png" width="30px" height="30px"></div>
+<div class="whole-cart-window">
+<h2>Shopping Bag</h2>
+<div class="cart-wrapper">
+</div>
+
+<div class="subtotal">Subtotal: rs0.00</div>
+<div class="checkout">Checkout</div>
+<div class="view-cart">View Cart</div>
+</div>
+</div>
+
+
+
+
+</header>
+<section class="shop-section"></section>
+<script src="script.js"></script>
+</body>
+</html>
